@@ -1,3 +1,5 @@
+package easy;
+
 //7
 class Solution7 {
     public int reverse(int x) {

@@ -1,3 +1,5 @@
+package easy;
+
 public class Solution14 {
     public String longestCommonPrefix(String[] strs) {
         if (strs.length == 0) {
