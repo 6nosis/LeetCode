@@ -22,6 +22,7 @@ public class Solution66 {
         }
         return digits;
     }
+
     public static void main(String[] args) {
         Solution66 solve = new Solution66();
         int[] result = solve.plusOne(new int[] {9, 9, 9});

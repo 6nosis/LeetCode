@@ -17,7 +17,6 @@ public class test {
     }
 
     public static void main(String[] args) {
-        test t = new test();
-        t.hashMapTest();
+        System.out.println('B' - 'A' + 1);
     }
 }

@@ -1,5 +1,5 @@
 package easy;
-
+// 是否对称
 public class Solution125 {
     public boolean isPalindrome(String s) {
         if (s.isEmpty()) return true;
