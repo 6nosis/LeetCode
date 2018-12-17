@@ -18,5 +18,6 @@ public class test {
 
     public static void main(String[] args) {
         System.out.println('B' - 'A' + 1);
+        System.out.println(999 & 1 | 3);
     }
 }
